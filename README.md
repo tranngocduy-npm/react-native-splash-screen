@@ -4,21 +4,31 @@ A splash screen API for react-native which can programatically hide and show the
 
 ## Content
 
+- [Installation](#installation)
 - [Getting started](#getting-started)
 - [API](#api)
 - [Contribution](#contribution)
 - [Changes](#changes)
 
 ## Changes
-For React Native >= 0.47.1 
+For React Native 0.47.0
 
 ## Installation
 
-#### Not use automatic installation
+### First step(Download):
+In your file package.json 
+`"dependencies": {
+    ...
+    "react-native": "git+https://git@github.com/appharavan/react-native.git",
+}`
+
+### Second step(Plugin Installation):
+
+#### Automatic installation
 
 `react-native link react-native-splash-screen` or `rnpm link react-native-splash-screen`
 
-#### Use manual installation  
+#### Manual installation  
 
 **Android:**
 
