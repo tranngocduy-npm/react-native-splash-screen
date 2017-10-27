@@ -24,7 +24,7 @@ dependencies {
     "react-native": "git+https://git@github.com/appharavan/react-native.git"
 }
 ```
-###### Run npm install or yarn install
+**Run npm install or yarn install**
 
 ### Second step(Plugin Installation):
 
