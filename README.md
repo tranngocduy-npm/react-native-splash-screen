@@ -1,4 +1,4 @@
-# react-native-splash-screen
+# react-native-splash-screen use for AeonShop Haravan
 
 A splash screen API for react-native which can programatically hide and show the splash screen. Works on iOS and Android. Use react-native version 0.47.1
 
