@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-splash-screen@3.0.0",
+        "scope": null,
+        "escapedName": "react-native-splash-screen",
+        "name": "react-native-splash-screen",
+        "rawSpec": "3.0.0",
+        "spec": "3.0.0",
+        "type": "version"
+      },
+      "D:\\Work\\WorkSpace\\aeon"
+    ]
+  ],
+  "_from": "react-native-splash-screen@3.0.0",
+  "_id": "react-native-splash-screen@3.0.0",
+  "_inCache": true,
+  "_location": "/react-native-splash-screen",
+  "_nodeVersion": "8.1.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-splash-screen-3.0.0.tgz_1503076703408_0.5794953433796763"
+  },
+  "_npmUser": {
+    "name": "crazycodeboy",
+    "email": "crazycodeboy@gmail.com"
+  },
+  "_npmVersion": "4.6.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-splash-screen@3.0.0",
+    "scope": null,
+    "escapedName": "react-native-splash-screen",
+    "name": "react-native-splash-screen",
+    "rawSpec": "3.0.0",
+    "spec": "3.0.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-splash-screen/-/react-native-splash-screen-3.0.0.tgz",
+  "_shasum": "44ac95f84b9bf58d800af1ab9ff52093fa3efcb9",
+  "_shrinkwrap": null,
+  "_spec": "react-native-splash-screen@3.0.0",
+  "_where": "D:\\Work\\WorkSpace\\aeon",
+  "author": {
+    "name": "crazycodeboy"
+  },
+  "bugs": {
+    "url": "https://github.com/crazycodeboy/react-native-splash-screen/issues"
+  },
+  "dependencies": {},
+  "description": "A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "44ac95f84b9bf58d800af1ab9ff52093fa3efcb9",
+    "tarball": "https://registry.npmjs.org/react-native-splash-screen/-/react-native-splash-screen-3.0.0.tgz"
+  },
+  "gitHead": "54d1a336e013c46a9341563bf0a48d5abcb88bc5",
+  "homepage": "https://github.com/crazycodeboy/react-native-splash-screen#readme",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-splash-screen",
+    "splash-screen",
+    "splashscreen",
+    "splash",
+    "launch-screen",
+    "launchscreen",
+    "android",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "crazycodeboy",
+      "email": "crazycodeboy@gmail.com"
+    }
+  ],
+  "name": "react-native-splash-screen",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.47.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazycodeboy/react-native-splash-screen.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.0.0"
+}
