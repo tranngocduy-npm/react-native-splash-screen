@@ -11,7 +11,7 @@ A splash screen API for react-native which can programatically hide and show the
 - [Changes](#changes)
 
 ## Changes
-For React Native 0.47.0
+For React Native 0.47.
 
 ## Installation
 
