@@ -17,10 +17,13 @@ For React Native 0.47.0
 
 ### First step(Download):
 In your file package.json 
-`"dependencies": { \n
-    ... \n
-    "react-native": "git+https://git@github.com/appharavan/react-native.git" \n
+```
+...
+dependencies {
+    ...
+    "react-native": "git+https://git@github.com/appharavan/react-native.git"
 }
+```
 
 ### Second step(Plugin Installation):
 
