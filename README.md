@@ -28,7 +28,7 @@ dependencies {
 
 ### Second step(Plugin Installation):
 
-#### *Not Use* Automatic Installation
+#### *Don't Use* Automatic Installation
 
 `react-native link react-native-splash-screen` or `rnpm link react-native-splash-screen`
 
