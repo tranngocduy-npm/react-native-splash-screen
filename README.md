@@ -21,7 +21,7 @@ In your file package.json
 ...
 dependencies {
     ...
-    "react-native": "git+https://git@github.com/tranngocduy-npm/react-native-splash-screen.git"
+    "react-native-splash-screen": "git+https://git@github.com/tranngocduy-npm/react-native-splash-screen.git"
 }
 ```
 **Run npm install or yarn install**
