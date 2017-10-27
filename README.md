@@ -182,14 +182,9 @@ Open `android/app/src/main/res/values/styles.xml` and add `<item name="android:w
 </resources>
 ```
 
-**To learn more see [examples](https://github.com/crazycodeboy/react-native-splash-screen/tree/master/examples)**
-
-
 ### iOS    
 
 Customize your splash screen via LaunchImage or LaunchScreen.xib,
-
-**Learn more to see [examples](https://github.com/crazycodeboy/react-native-splash-screen/tree/master/examples)**
 
 ## Usage
 
