@@ -8,7 +8,7 @@
  */
 
 #import "SplashScreen.h"
-#import "RCTBridge.h"
+#import <React/RCTBridge.h>
 
 static bool waiting = true;
 static bool addedJsLoadErrorObserver = false;
